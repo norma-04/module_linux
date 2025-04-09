@@ -1,0 +1,1 @@
+savedcmd_/home/norma/myproject/01_hello/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/norma/myproject/01_hello/hello.ko /home/norma/myproject/01_hello/hello.o /home/norma/myproject/01_hello/hello.mod.o
